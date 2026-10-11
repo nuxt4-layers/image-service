@@ -1,1 +1,1 @@
-# image-service
+# @nuxt4-layers/image-service
